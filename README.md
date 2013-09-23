@@ -1,5 +1,4 @@
 <h2>Django-Redis-AutoComplete-Search Application</h2>
-=================
 
 This is a Django application that uses Redis sorted sets and hashes to create a lightening fast search-index. Supports both single and multi-word searches. 
 <br>
