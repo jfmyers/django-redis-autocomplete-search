@@ -5,4 +5,4 @@ This is a Django application that uses Redis sorted sets and hashes to create a 
 <br>
 I wrote a post describing this application in detail and how others could adopt it for their own needs:
 <br>
-<a href="http://jfmyers.com/post/1/" target="_blank">http://jfmyers.com/post/1/</a>
+<a href="http://jfmyers.com/AutoCompleteSearchAppforDjangoBuiltUsingRedis_1/" target="_blank">jfmyers.com/AutoCompleteSearchAppforDjangoBuiltUsingRedis_1/</a>
